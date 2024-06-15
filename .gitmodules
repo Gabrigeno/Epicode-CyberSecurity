@@ -1,0 +1,129 @@
+[submodule "esercizio"]
+	path = esercizio
+	url = https://github.com/Gabrigeno/esercizio
+[submodule "esercizio-server"]
+	path = esercizio-server
+	url = https://github.com/Gabrigeno/esercizio-server
+[submodule "esercizio-ping"]
+	path = esercizio-ping
+	url = https://github.com/Gabrigeno/esercizio-ping
+[submodule "EsercizioWeek1"]
+	path = EsercizioWeek1
+	url = https://github.com/Gabrigeno/EsercizioWeek1
+[submodule "mono-multi-time"]
+	path = mono-multi-time
+	url = https://github.com/Gabrigeno/mono-multi-time
+[submodule "Esercitazione-linux"]
+	path = Esercitazione-linux
+	url = https://github.com/Gabrigeno/Esercitazione-linux
+[submodule "c"]
+	path = c
+	url = https://github.com/Gabrigeno/c
+[submodule "nuovo-esercizio-c"]
+	path = nuovo-esercizio-c
+	url = https://github.com/Gabrigeno/nuovo-esercizio-c
+[submodule "python"]
+	path = python
+	url = https://github.com/Gabrigeno/python
+[submodule "week2"]
+	path = week2
+	url = https://github.com/Gabrigeno/week2
+[submodule "es_Week2"]
+	path = es_Week2
+	url = https://github.com/Gabrigeno/es_Week2
+[submodule "socket"]
+	path = socket
+	url = https://github.com/Gabrigeno/socket
+[submodule "DWVA"]
+	path = DWVA
+	url = https://github.com/Gabrigeno/DWVA
+[submodule "Schema-firewall"]
+	path = Schema-firewall
+	url = https://github.com/Gabrigeno/Schema-firewall
+[submodule "Week3"]
+	path = Week3
+	url = https://github.com/Gabrigeno/Week3
+[submodule "buildWeek_1"]
+	path = buildWeek_1
+	url = https://github.com/Gabrigeno/buildWeek_1
+[submodule "build_week_1"]
+	path = build_week_1
+	url = https://github.com/Gabrigeno/build_week_1
+[submodule "info"]
+	path = info
+	url = https://github.com/Gabrigeno/info
+[submodule "Nmap"]
+	path = Nmap
+	url = https://github.com/Gabrigeno/Nmap
+[submodule "report-nessus"]
+	path = report-nessus
+	url = https://github.com/Gabrigeno/report-nessus
+[submodule "Week5"]
+	path = Week5
+	url = https://github.com/Gabrigeno/Week5
+[submodule "exploitDVWA"]
+	path = exploitDVWA
+	url = https://github.com/Gabrigeno/exploitDVWA
+[submodule "sql_Injection"]
+	path = sql_Injection
+	url = https://github.com/Gabrigeno/sql_Injection
+[submodule "md5-John"]
+	path = md5-John
+	url = https://github.com/Gabrigeno/md5-John
+[submodule "hydra"]
+	path = hydra
+	url = https://github.com/Gabrigeno/hydra
+[submodule "week6"]
+	path = week6
+	url = https://github.com/Gabrigeno/week6
+[submodule "exploitTelnet"]
+	path = exploitTelnet
+	url = https://github.com/Gabrigeno/exploitTelnet
+[submodule "Screen-exploit"]
+	path = Screen-exploit
+	url = https://github.com/Gabrigeno/Screen-exploit
+[submodule "Correzione-file-c"]
+	path = Correzione-file-c
+	url = https://github.com/Gabrigeno/Correzione-file-c
+[submodule "week7"]
+	path = week7
+	url = https://github.com/Gabrigeno/week7
+[submodule "buildweek_2"]
+	path = buildweek_2
+	url = https://github.com/Gabrigeno/buildweek_2
+[submodule "nmapxp"]
+	path = nmapxp
+	url = https://github.com/Gabrigeno/nmapxp
+[submodule "disaster-recovery"]
+	path = disaster-recovery
+	url = https://github.com/Gabrigeno/disaster-recovery
+[submodule "IOC"]
+	path = IOC
+	url = https://github.com/Gabrigeno/IOC
+[submodule "l5week9"]
+	path = l5week9
+	url = https://github.com/Gabrigeno/l5week9
+[submodule "Week9"]
+	path = Week9
+	url = https://github.com/Gabrigeno/Week9
+[submodule "analisi"]
+	path = analisi
+	url = https://github.com/Gabrigeno/analisi
+[submodule "es5settimana10"]
+	path = es5settimana10
+	url = https://github.com/Gabrigeno/es5settimana10
+[submodule "esercizio5settimana10"]
+	path = esercizio5settimana10
+	url = https://github.com/Gabrigeno/esercizio5settimana10
+[submodule "es1settimana11"]
+	path = es1settimana11
+	url = https://github.com/Gabrigeno/es1settimana11
+[submodule "esercizio4settimana11"]
+	path = esercizio4settimana11
+	url = https://github.com/Gabrigeno/esercizio4settimana11
+[submodule "Build_Week3"]
+	path = Build_Week3
+	url = https://github.com/Gabrigeno/Build_Week3
+[submodule "5settimana11"]
+	path = 5settimana11
+	url = https://github.com/Gabrigeno/5settimana11
